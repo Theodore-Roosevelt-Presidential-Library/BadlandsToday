@@ -1,0 +1,862 @@
+{
+ "generated": "2026-10-10T05:38:10.633Z",
+ "source": "NPS Data API /thingstodo?parkCode=thro",
+ "count": 23,
+ "items": [
+  {
+   "id": "F152E995-5040-449A-BDCE-13A3543F2759",
+   "title": "Hike the Petrified Forest",
+   "summary": "The petrified forest trail is a remote and beautiful hike, leading to a dramatic landscape of petrified stumps and layered buttes.",
+   "url": "https://www.nps.gov/thingstodo/hike-the-petrified-forest.htm",
+   "duration": "2-10 Hours",
+   "durationNote": "Hiking just to the petrified forest (either section) is a 3-mile out-and-back hike. The entire loop is 10.4 miles.",
+   "minutes": {
+    "lo": 120,
+    "hi": 600
+   },
+   "bucket": "long",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.996264,
+   "lon": -103.604716,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/9789EB32-93E0-D700-730123D0B4ADBA35.jpg",
+    "alt": "A large petrified stump is central to the image, with others and large buttes visible behind it.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/F152E995-5040-449A-BDCE-13A3543F2759.jpg"
+   }
+  },
+  {
+   "id": "6487C2E3-3AE5-4D03-8633-39182E173BE4",
+   "title": "Hike Skyline Vista Trail",
+   "summary": "Skyline Vista Trail is a great accessible introduction to Theodore Roosevelt National Park.",
+   "url": "https://www.nps.gov/thingstodo/hike-skyline-vista-trail.htm",
+   "duration": "5-15 Minutes",
+   "durationNote": "The Skyline Vista Trail is a 0.1 mile round-trip accessible hike to an overlook with seating.",
+   "minutes": {
+    "lo": 5,
+    "hi": 15
+   },
+   "bucket": "quick",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.935163,
+   "lon": -103.531274,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/EAF89F52-CFF7-769A-25C1EC2CC0A523EF.jpg",
+    "alt": "A trailhead sign next to a paved trail in a grassy area. Buttes are visible on the horizon.",
+    "credit": "NPS Photo/L. Eddy",
+    "thumb": "assets/things/6487C2E3-3AE5-4D03-8633-39182E173BE4.jpg"
+   }
+  },
+  {
+   "id": "DAE7C753-F5FC-4A77-8140-D73DA23CFB17",
+   "title": "Birding in Theodore Roosevelt National Park",
+   "summary": "The badlands of North Dakota are home to more than 180 species of birds. Take a moment and see which ones you can spot!",
+   "url": "https://www.nps.gov/thingstodo/birding-in-theodore-roosevelt-national-park.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "south",
+   "activities": [
+    "Birdwatching"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 46.91605376351227,
+   "lon": -103.526057571011,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/94DECB65-96F6-DF33-45FEC801C07F6B96.jpg",
+    "alt": "A yellow breasted bird with brown wings and head sings at the top of a tree with needles.",
+    "credit": "NPS Photo/A. Myran",
+    "thumb": "assets/things/DAE7C753-F5FC-4A77-8140-D73DA23CFB17.jpg"
+   }
+  },
+  {
+   "id": "0BDC3EBD-2ABF-47DA-87E3-0DAC50BFB9B2",
+   "title": "Wildlife Viewing - South Unit",
+   "summary": "Explore the South Unit of Theodore Roosevelt National Park and see the wide variety of wildlife that lives there.",
+   "url": "https://www.nps.gov/thingstodo/wildlife-viewing-south-unit.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "south",
+   "activities": [
+    "Wildlife Watching"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 46.915521,
+   "lon": -103.527121,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/5268AB7C-CF71-30CE-F8572EDD54640839.jpg",
+    "alt": "A group of bison cross a butte, the badlands dim behind them.",
+    "credit": "NPS Photo/R. Honeyman",
+    "thumb": "assets/things/0BDC3EBD-2ABF-47DA-87E3-0DAC50BFB9B2.jpg"
+   }
+  },
+  {
+   "id": "0D61915C-E4EF-4799-8F11-7EAEB5A6E105",
+   "title": "Wildlife Viewing - North Unit",
+   "summary": "Explore the North Unit of Theodore Roosevelt National Park and see the wide variety of wildlife that lives there.",
+   "url": "https://www.nps.gov/thingstodo/wildlife-viewing-north-unit.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "north",
+   "activities": [
+    "Wildlife Watching"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 47.599651053930295,
+   "lon": -103.2556436737809,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/566057FF-00AC-E3F1-1FDD168254B13070.jpg",
+    "alt": "A group of bighorn sheep cross a hillside above a bison.",
+    "credit": "NPS Photo/ J. Zylland",
+    "thumb": "assets/things/0D61915C-E4EF-4799-8F11-7EAEB5A6E105.jpg"
+   }
+  },
+  {
+   "id": "33450E51-C500-4A35-B0C8-C9F4112E6C76",
+   "title": "Visit the Elkhorn Ranch Unit",
+   "summary": "Visit the location of Theodore Roosevelt's home ranch, the Elkhorn, and experience the solitude of the North Dakota badlands.",
+   "url": "https://www.nps.gov/thingstodo/visit-the-elkhorn-ranch-unit.htm",
+   "duration": "3-6 Hours",
+   "durationNote": "The Elkhorn Ranch Unit is remote, located between the North and South units. Visitors should plan for a drive of approximately 90 minutes each way, with time to hike and explore at the Elkhorn unit itself.",
+   "minutes": {
+    "lo": 180,
+    "hi": 360
+   },
+   "bucket": "long",
+   "unit": "elkhorn",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 47.234929,
+   "lon": -103.62739,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/259B8273-A909-6184-892115B11112D62D.jpg",
+    "alt": "A black and white photo of a low ranch house, with a porch. Elk antlers hang on the walls.",
+    "credit": "Historic photo taken by Theodore Roosevelt",
+    "thumb": "assets/things/33450E51-C500-4A35-B0C8-C9F4112E6C76.jpg"
+   }
+  },
+  {
+   "id": "719D9665-7F2D-40C9-B170-9EDCD92ED2F5",
+   "title": "Hike Coal Vein Trail",
+   "summary": "Take a hike on this 0.8-mile loop and learn about the geology of Theodore Roosevelt National Park.",
+   "url": "https://www.nps.gov/thingstodo/hike-coal-vein-trail.htm",
+   "duration": "30-45 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 30,
+    "hi": 45
+   },
+   "bucket": "short",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.924551,
+   "lon": -103.401947,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/C6B94D20-AFD9-A45E-829A0AAAF9AD09C3.jpg",
+    "alt": "A trail winds through low buttes under a blue sky, with grass and flowers growing around it.",
+    "credit": "NPS Photo/L. Thomas",
+    "thumb": "assets/things/719D9665-7F2D-40C9-B170-9EDCD92ED2F5.jpg"
+   }
+  },
+  {
+   "id": "E4EA081A-9A5E-4789-97B8-94E0169FE82B",
+   "title": "Hike Wind Canyon Trail",
+   "summary": "Wind Canyon trail is a short, moderate-difficulty trail that rewards hikers with incredible views of the Little Missouri river and the surrounding badlands.",
+   "url": "https://www.nps.gov/thingstodo/hike-wind-canyon-trail.htm",
+   "duration": "5-30 Minutes",
+   "durationNote": "The Wind Canyon trail is a 0.3 mile loop, with scenic views along its length.",
+   "minutes": {
+    "lo": 5,
+    "hi": 30
+   },
+   "bucket": "quick",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.988691,
+   "lon": -103.485254,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/E799FD43-DDA4-E371-B4D88B34FB9ED24E.jpg",
+    "alt": "A bend in the river and a trail above it are seen at sunset. Buttes and prairies line the river.",
+    "credit": "NPS Photo/W. Archer",
+    "thumb": "assets/things/E4EA081A-9A5E-4789-97B8-94E0169FE82B.jpg"
+   }
+  },
+  {
+   "id": "9690A7FB-9EF0-4BA4-9EE9-D6FA00D8141A",
+   "title": "Hike Boicourt Trail",
+   "summary": "This short hike, with its elevated perspective and accessible trail, offers a unique view of the Little Missouri Badlands that the whole family can enjoy.",
+   "url": "https://www.nps.gov/thingstodo/hike-boicourt-trail.htm",
+   "duration": "15-30 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 15,
+    "hi": 30
+   },
+   "bucket": "quick",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.959367,
+   "lon": -103.401854,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/F88B4ACA-AA94-8538-26B1D64662450193.jpg",
+    "alt": "The badlands, including a view down into a sandy bottomed valley and large buttes under a cloudy sky",
+    "credit": "NPS Photo/L. Thomas",
+    "thumb": "assets/things/9690A7FB-9EF0-4BA4-9EE9-D6FA00D8141A.jpg"
+   }
+  },
+  {
+   "id": "F1792F2E-F89B-4C99-9202-4FF84007ADD7",
+   "title": "Visit Theodore Roosevelt's Maltese Cross Cabin",
+   "summary": "The Maltese Cross Cabin was Theodore Roosevelt's first home in Dakota territory. Step inside and learn about how he lived during his time in the badlands where the romance of his life began.",
+   "url": "https://www.nps.gov/thingstodo/visit-theodore-roosevelt-s-maltese-cross-cabin.htm",
+   "duration": "5-20 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 5,
+    "hi": 20
+   },
+   "bucket": "quick",
+   "unit": "south",
+   "activities": [
+    "Museum Exhibits"
+   ],
+   "timeOfDay": [
+    "Day"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.91696,
+   "lon": -103.526279,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/C48A9E5F-07C1-65F9-3BAF166937B1046D.jpg",
+    "alt": "A log cabin sits in a grassy area on the other side of a wooden fence, trees and blue sky behind it.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/F1792F2E-F89B-4C99-9202-4FF84007ADD7.jpg"
+   }
+  },
+  {
+   "id": "25C57A41-6C1C-4C44-ACB3-CC0A96D161D4",
+   "title": "Hike The Little Mo Nature Trail",
+   "summary": "Take a short hike along the Little Mo Nature Trail and learn about the nature and geology of Theodore Roosevelt National Park!",
+   "url": "https://www.nps.gov/thingstodo/hike-the-little-mo-nature-trail.htm",
+   "duration": "30-45 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 30,
+    "hi": 45
+   },
+   "bucket": "short",
+   "unit": "north",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 47.5948,
+   "lon": -103.33391,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/BAD2BE93-0B78-DAA0-F1AD8C1A60816CB5.jpg",
+    "alt": "A paved trail leads to a bridge over a creek. A picnic shelter is seen behind some trees.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/25C57A41-6C1C-4C44-ACB3-CC0A96D161D4.jpg"
+   }
+  },
+  {
+   "id": "28F269B2-21C8-460A-B44C-1CED5BC82C57",
+   "title": "Watch the Theodore Roosevelt National Park Film: Refuge of the American Spirit",
+   "summary": "Visit one of the visitor centers and watch the Theodore Roosevelt National Park film, Refuge of the American Spirit.",
+   "url": "https://www.nps.gov/thingstodo/watch-the-theodore-roosevelt-national-park-film-refuge-of-the-american-spirit.htm",
+   "duration": "17 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 17,
+    "hi": 17
+   },
+   "bucket": "quick",
+   "unit": "all",
+   "activities": [
+    "Park Film"
+   ],
+   "timeOfDay": [
+    "Day"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": null,
+   "lon": null,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/59BB4B8F-D427-0B39-E2BEEC641891F299.jpg",
+    "alt": "The sun is just visible over a badlands scene. Juniper grow on the buttes, and there are low clouds.",
+    "credit": "NPS Photo/A. Hoffman",
+    "thumb": "assets/things/28F269B2-21C8-460A-B44C-1CED5BC82C57.jpg"
+   }
+  },
+  {
+   "id": "32B5B2B0-4DDD-4AA9-B75B-13A661CB93AB",
+   "title": "Hike up Buck Hill",
+   "summary": "Hike to the top of Buck Hill, one of the highest points in the park, and get an amazing 360\u00b0 view of the surrounding badlands!",
+   "url": "https://www.nps.gov/thingstodo/hike-up-buck-hill.htm",
+   "duration": "5-30 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 5,
+    "hi": 30
+   },
+   "bucket": "quick",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.926569,
+   "lon": -103.389452,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/2B4C131C-9E68-501E-DB9A29617AA0ED94.jpg",
+    "alt": "Two children sit on the edge of a rock ledge and gaze out over the badlands, juniper, and trails.",
+    "credit": "NPS Photo/S. Ng",
+    "thumb": "assets/things/32B5B2B0-4DDD-4AA9-B75B-13A661CB93AB.jpg"
+   }
+  },
+  {
+   "id": "C9C33F06-CFC7-4625-A631-381E2DFBCF3E",
+   "title": "Bike the South Unit Scenic Drive",
+   "summary": "Hop on your mountain bike and experience the South Unit Scenic Drive in a whole new way.",
+   "url": "https://www.nps.gov/thingstodo/bike-the-south-unit-scenic-drive.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "south",
+   "activities": [
+    "Biking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 46.91518228213772,
+   "lon": -103.52742622229738,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/903C7F90-D108-FBD0-433B57ED930F31B6.jpg",
+    "alt": "A road curves to the left, with yellowing trees on both sides. Large buttes are in the distance.",
+    "credit": "NPS Photo/A. Myran",
+    "thumb": "assets/things/C9C33F06-CFC7-4625-A631-381E2DFBCF3E.jpg"
+   }
+  },
+  {
+   "id": "FA267900-38CF-4CE2-AEDA-2BD91C3359FE",
+   "title": "Bike the North Unit Scenic Drive",
+   "summary": "Bike the 14-mile scenic drive of Theodore Roosevelt National Park's remote North Unit!",
+   "url": "https://www.nps.gov/thingstodo/bike-the-north-unit-scenic-drive.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "north",
+   "activities": [
+    "Biking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 47.599436553275815,
+   "lon": -103.2565189637594,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/C181C0BD-C6B7-F621-FFFE3CB3B06B03BF.jpg",
+    "alt": "A road winds past buttes, viewed from above.",
+    "credit": "NPS Photo/L. Thomas",
+    "thumb": "assets/things/FA267900-38CF-4CE2-AEDA-2BD91C3359FE.jpg"
+   }
+  },
+  {
+   "id": "A974C3C2-EA5A-4416-9051-8E280586AD2E",
+   "title": "Hike the Painted Canyon Nature Trail",
+   "summary": "Painted Canyon Trail is a 1-mile loop trail located just off Interstate 94 near the Painted Canyon Visitor Center. It offers a great introduction to Theodore Roosevelt National Park, whether visitors are just passing through or planning on a multi-day stay.",
+   "url": "https://www.nps.gov/thingstodo/hike-the-painted-canyon-nature-trail.htm",
+   "duration": "30-80 Minutes",
+   "durationNote": null,
+   "minutes": {
+    "lo": 30,
+    "hi": 80
+   },
+   "bucket": "short",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 46.895169,
+   "lon": -103.382851,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/F1A318EE-B3AA-38B1-DA143F412C5B4E65.jpg",
+    "alt": "A view up a trail towards a butte through junipers. A trail marker reads Painted Canyon.",
+    "credit": "NPS Photo/J. Houghton",
+    "thumb": "assets/things/A974C3C2-EA5A-4416-9051-8E280586AD2E.jpg"
+   }
+  },
+  {
+   "id": "96336043-DD6D-454A-ADCB-3B5230C2D2DB",
+   "title": "See the Stars in Theodore Roosevelt National Park",
+   "summary": "Theodore Roosevelt National Park offers incredible night skies for amateur and expert stargazers alike to enjoy year round.",
+   "url": "https://www.nps.gov/thingstodo/see-the-stars-in-theodore-roosevelt-national-park.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "all",
+   "activities": [
+    "Stargazing"
+   ],
+   "timeOfDay": [
+    "Night"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": null,
+   "lon": null,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/25E0E9D3-C707-7180-D30019D68D6E093B.jpg",
+    "alt": "A ranger stands with several people, pointing a green laser at the sky. Stars are visible above them",
+    "credit": "NPS Photo/J. Zylland",
+    "thumb": "assets/things/96336043-DD6D-454A-ADCB-3B5230C2D2DB.jpg"
+   }
+  },
+  {
+   "id": "775563A7-828E-4324-A749-80380A6C8720",
+   "title": "Drive the South Unit Scenic Drive",
+   "summary": "The South Unit scenic drive is the gateway to the South Unit of Theodore Roosevelt National Park.",
+   "url": "https://www.nps.gov/thingstodo/drive-the-south-unit-scenic-drive.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "south",
+   "activities": [
+    "Scenic Driving"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 46.915356287005146,
+   "lon": -103.52726529539596,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/B17700D3-05C8-D1E3-1EE43345D7591CA7.jpg",
+    "alt": "A photo taken from road level. Two yellow lines travel out of sight, with buttes in the distance.",
+    "credit": "NPS Photo/K. Tonkin",
+    "thumb": "assets/things/775563A7-828E-4324-A749-80380A6C8720.jpg"
+   }
+  },
+  {
+   "id": "7E3A5C2B-1E8E-4E9A-B9DA-4B39311CCA62",
+   "title": "Drive the North Unit Scenic Drive",
+   "summary": "The North Unit scenic drive provides access to the more rugged North Unit of Theodore Roosevelt National Park.",
+   "url": "https://www.nps.gov/thingstodo/drive-the-north-unit-scenic-drive.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "north",
+   "activities": [
+    "Scenic Driving"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": 47.59951165725981,
+   "lon": -103.25611507106463,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/B34C1B6B-BBC9-9FE4-83962CE58C3541D1.jpg",
+    "alt": "A road curves out of sight around some buttes. Yellowish grass grows on both sides of the road.",
+    "credit": "NPS Photo/C. Allmendinger",
+    "thumb": "assets/things/7E3A5C2B-1E8E-4E9A-B9DA-4B39311CCA62.jpg"
+   }
+  },
+  {
+   "id": "D863AEE7-023B-4B13-8B5E-E240D4B5C331",
+   "title": "Become a Theodore Roosevelt National Park Junior Ranger",
+   "summary": "Visit one of the park's visitor centers to pick up a Junior Ranger Field Journal, and start your journey to becoming a Junior Ranger!",
+   "url": "https://www.nps.gov/thingstodo/become-a-theodore-roosevelt-national-park-junior-ranger.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "all",
+   "activities": [
+    "Junior Ranger Program"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": true,
+   "lat": null,
+   "lon": null,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/5191A015-B38C-4632-A768A304F7C95CC3.jpg",
+    "alt": "Two women smiling at the camera, one in a ranger uniform, holding a junior ranger book and badge.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/D863AEE7-023B-4B13-8B5E-E240D4B5C331.jpg"
+   }
+  },
+  {
+   "id": "D4F02C75-972B-4D9E-9DC2-AA4FC3CB09C1",
+   "title": "Explore the Cannonball Concretions",
+   "summary": "The cannonball concretions are an arresting and unusual geological formation. Stop at this pullout to explore their mysteries!",
+   "url": "https://www.nps.gov/thingstodo/explore-the-cannonball-concretions.htm",
+   "duration": "5-15 Minutes",
+   "durationNote": "The cannonball concretions are contained to a relatively small area, though there is access to the Buckhorn trail at this pullout.",
+   "minutes": {
+    "lo": 5,
+    "hi": 15
+   },
+   "bucket": "quick",
+   "unit": "north",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 47.596461,
+   "lon": -103.332433,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/EE4FF905-A96F-F09D-B3664194AE2B3D5B.jpg",
+    "alt": "Several large round rocks eroded out of the side of a butte. The sky above the butte is cloudy blue.",
+    "credit": "NPS Photo/J. Zylland",
+    "thumb": "assets/things/D4F02C75-972B-4D9E-9DC2-AA4FC3CB09C1.jpg"
+   }
+  },
+  {
+   "id": "6B5F6DF2-CCD5-48FC-93D5-BDEF6815A2F9",
+   "title": "Hiking in the South Unit",
+   "summary": "From paved paths to strenuous backcountry trails \u2013 the hiking trails in the South Unit have a little something for everyone. Explore a sampling of park terrain with trail options to fit all levels of hikers.",
+   "url": "https://www.nps.gov/thingstodo/hiking-in-the-south-unit.htm",
+   "duration": null,
+   "durationNote": null,
+   "minutes": null,
+   "bucket": "any",
+   "unit": "south",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": null,
+   "lon": null,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/66BB39F9-A371-89F7-ADC3BA9512B1060A.jpg",
+    "alt": "Sunshine highlights slopes on rolling badlands landscape.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/6B5F6DF2-CCD5-48FC-93D5-BDEF6815A2F9.jpg"
+   }
+  },
+  {
+   "id": "1953906E-EE6E-4757-9D6E-A03C249D6430",
+   "title": "Hiking in the North Unit",
+   "summary": "Nature Trails in the North Unit are perfect for casual hikers and nature enthusiasts, but the backcountry trails really steal the show! The Buckhorn, Caprock Coulee, and famed Achenbach Trails traverse the park's vast wilderness areas. Check out all the options and what will fit your trip best.",
+   "url": "https://www.nps.gov/thingstodo/hiking-in-the-north-unit.htm",
+   "duration": null,
+   "durationNote": "Variable; each trail listing includes mileage and terrain description to assist the visitor in calculating how long it would take to complete.",
+   "minutes": null,
+   "bucket": "any",
+   "unit": "north",
+   "activities": [
+    "Hiking"
+   ],
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "reservation": false,
+   "pets": false,
+   "lat": 47.600311279296875,
+   "lon": -103.2553482055664,
+   "image": {
+    "url": "https://www.nps.gov/common/uploads/cropped_image/0319D36E-0B02-9CCB-10EBC1F73A3BB1AD.jpg",
+    "alt": "Landscape view of dramatic Badlands with prominent coal seam.",
+    "credit": "NPS Photo",
+    "thumb": "assets/things/1953906E-EE6E-4757-9D6E-A03C249D6430.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,918 @@
+{
+ "generated": "2026-10-10T05:47:23.467Z",
+ "place": {
+  "name": "Medora, ND",
+  "lat": 46.9142,
+  "lon": -103.5249,
+  "tz": "America/Denver"
+ },
+ "status": {
+  "alerts": "ok",
+  "roadEvents": "ok",
+  "river": "ok",
+  "forecast": "ok",
+  "weatherAlerts": "ok",
+  "current": "ok",
+  "air": "ok"
+ },
+ "alerts": [
+  {
+   "id": "5DAFD8CE-ED3D-4C75-BBBC-EC5EBC5010D5",
+   "title": "Theodore Roosevelt National Park moves to cashless fee collection",
+   "category": "Information",
+   "description": "Starting May 1, Theodore Roosevelt National Park will accept only credit cards, debit cards, or digital payments for entrance fees, campground fees, and Interagency Passes. Cash and check payments will no longer be accepted.",
+   "url": "https://www.nps.gov/thro/learn/news/theodore-roosevelt-national-park-to-move-to-cashless-fee-collection-starting-may-1.htm",
+   "updated": "2026-03-31"
+  },
+  {
+   "id": "70B82CA0-42C9-40C8-ADB5-1D110B8A04F8",
+   "title": "South Unit Address for Mobile Maps – Theodore Roosevelt NP",
+   "category": "Information",
+   "description": "On all maps used on mobile devices, use the following address to reach the South Unit Visitor Center and Entrance Station 201 East River Road N. Medora, ND 58645",
+   "url": "https://www.nps.gov/thro/planyourvisit/conditions.htm",
+   "updated": "2025-09-18"
+  },
+  {
+   "id": "F8289D3C-4DAE-4F2A-A625-5BA53492ECDD",
+   "title": "Petrified Forest Trailhead Access Update: Use Approved Route",
+   "category": "Information",
+   "description": "Directions to the Petrified Forest trailhead have changed. Please use the approved legal route from I-94, Exit 10 toward Camels Hump Lake and follow the clearly marked posts. This update helps maintain good cooperation with neighbors and respect park boundaries. For precise directions, use the link provided.",
+   "url": "https://www.nps.gov/thingstodo/hike-the-petrified-forest.htm",
+   "updated": "2025-09-17"
+  }
+ ],
+ "roadEvents": [],
+ "river": {
+  "site": "06336000",
+  "name": "Little Missouri River at Medora",
+  "url": "https://waterdata.usgs.gov/monitoring-location/USGS-06336000/",
+  "flow": {
+   "value": 12.3,
+   "time": "2026-10-10T00:00:00.000-05:00",
+   "provisional": true,
+   "series": [
+    [
+     "2026-10-03T01:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-03T03:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-03T05:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-03T07:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-03T09:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-03T11:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-03T13:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-03T15:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-03T17:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-03T19:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-03T21:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-03T23:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-04T01:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-04T03:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-04T05:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-04T07:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-04T09:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-04T11:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-04T13:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-04T15:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-04T17:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-04T19:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-04T21:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-04T23:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-05T01:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T03:00:00.000-05:00",
+     27.5
+    ],
+    [
+     "2026-10-05T05:00:00.000-05:00",
+     25.4
+    ],
+    [
+     "2026-10-05T07:00:00.000-05:00",
+     27.5
+    ],
+    [
+     "2026-10-05T09:00:00.000-05:00",
+     25.4
+    ],
+    [
+     "2026-10-05T11:00:00.000-05:00",
+     28.6
+    ],
+    [
+     "2026-10-05T13:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T15:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T17:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T19:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T21:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-05T23:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-06T01:00:00.000-05:00",
+     23.4
+    ],
+    [
+     "2026-10-06T03:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-06T05:00:00.000-05:00",
+     21.4
+    ],
+    [
+     "2026-10-06T07:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-06T09:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-06T11:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-06T13:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-06T15:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-06T17:00:00.000-05:00",
+     22.4
+    ],
+    [
+     "2026-10-06T19:00:00.000-05:00",
+     20.5
+    ],
+    [
+     "2026-10-06T21:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-06T23:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-07T01:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-07T03:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-07T05:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-07T07:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-07T09:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-07T11:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-07T13:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-07T15:00:00.000-05:00",
+     18.6
+    ],
+    [
+     "2026-10-07T17:00:00.000-05:00",
+     19.5
+    ],
+    [
+     "2026-10-07T19:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-07T21:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-07T23:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-08T01:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-08T03:00:00.000-05:00",
+     15.1
+    ],
+    [
+     "2026-10-08T05:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-08T07:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-08T09:00:00.000-05:00",
+     15.1
+    ],
+    [
+     "2026-10-08T11:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-08T13:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-08T15:00:00.000-05:00",
+     17.7
+    ],
+    [
+     "2026-10-08T17:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-08T19:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-08T21:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-08T23:00:00.000-05:00",
+     15.1
+    ],
+    [
+     "2026-10-09T01:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-09T03:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-09T05:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-09T07:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-09T09:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-09T11:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-09T13:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-09T15:00:00.000-05:00",
+     16.8
+    ],
+    [
+     "2026-10-09T17:00:00.000-05:00",
+     15.7
+    ],
+    [
+     "2026-10-09T19:00:00.000-05:00",
+     15.1
+    ],
+    [
+     "2026-10-09T21:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-09T23:00:00.000-05:00",
+     16.2
+    ],
+    [
+     "2026-10-10T00:00:00.000-05:00",
+     12.3
+    ]
+   ]
+  },
+  "stage": {
+   "value": 1.13,
+   "time": "2026-10-10T00:00:00.000-05:00",
+   "provisional": true,
+   "series": [
+    [
+     "2026-10-03T01:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-03T03:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-03T05:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-03T07:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-03T09:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-03T11:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-03T13:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-03T15:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-03T17:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-03T19:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-03T21:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-03T23:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-04T01:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-04T03:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-04T05:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-04T07:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-04T09:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-04T11:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-04T13:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-04T15:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-04T17:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-04T19:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-04T21:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-04T23:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-05T01:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T03:00:00.000-05:00",
+     1.32
+    ],
+    [
+     "2026-10-05T05:00:00.000-05:00",
+     1.3
+    ],
+    [
+     "2026-10-05T07:00:00.000-05:00",
+     1.32
+    ],
+    [
+     "2026-10-05T09:00:00.000-05:00",
+     1.3
+    ],
+    [
+     "2026-10-05T11:00:00.000-05:00",
+     1.33
+    ],
+    [
+     "2026-10-05T13:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T15:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T17:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T19:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T21:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-05T23:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-06T01:00:00.000-05:00",
+     1.28
+    ],
+    [
+     "2026-10-06T03:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-06T05:00:00.000-05:00",
+     1.26
+    ],
+    [
+     "2026-10-06T07:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-06T09:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-06T11:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-06T13:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-06T15:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-06T17:00:00.000-05:00",
+     1.27
+    ],
+    [
+     "2026-10-06T19:00:00.000-05:00",
+     1.25
+    ],
+    [
+     "2026-10-06T21:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-06T23:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-07T01:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-07T03:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-07T05:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-07T07:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-07T09:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-07T11:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-07T13:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-07T15:00:00.000-05:00",
+     1.23
+    ],
+    [
+     "2026-10-07T17:00:00.000-05:00",
+     1.24
+    ],
+    [
+     "2026-10-07T19:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-07T21:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-07T23:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-08T01:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-08T03:00:00.000-05:00",
+     1.18
+    ],
+    [
+     "2026-10-08T05:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-08T07:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-08T09:00:00.000-05:00",
+     1.18
+    ],
+    [
+     "2026-10-08T11:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-08T13:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-08T15:00:00.000-05:00",
+     1.22
+    ],
+    [
+     "2026-10-08T17:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-08T19:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-08T21:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-08T23:00:00.000-05:00",
+     1.18
+    ],
+    [
+     "2026-10-09T01:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-09T03:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-09T05:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-09T07:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-09T09:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-09T11:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-09T13:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-09T15:00:00.000-05:00",
+     1.21
+    ],
+    [
+     "2026-10-09T17:00:00.000-05:00",
+     1.19
+    ],
+    [
+     "2026-10-09T19:00:00.000-05:00",
+     1.18
+    ],
+    [
+     "2026-10-09T21:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-09T23:00:00.000-05:00",
+     1.2
+    ],
+    [
+     "2026-10-10T00:00:00.000-05:00",
+     1.13
+    ]
+   ]
+  }
+ },
+ "forecast": {
+  "updated": "2026-10-10T03:36:29+00:00",
+  "url": "https://forecast.weather.gov/MapClick.php?lat=46.9142&lon=-103.5249",
+  "periods": [
+   {
+    "name": "Tonight",
+    "start": "2026-10-09T23:00:00-06:00",
+    "isDay": false,
+    "temp": 50,
+    "unit": "F",
+    "wind": "S 2 to 8 mph",
+    "pop": 0,
+    "short": "Mostly Clear",
+    "detail": "Mostly clear. Low around 50, with temperatures rising to around 53 overnight. South wind 2 to 8 mph.",
+    "icon": "https://api.weather.gov/icons/land/night/few?size=medium"
+   },
+   {
+    "name": "Saturday",
+    "start": "2026-10-10T06:00:00-06:00",
+    "isDay": true,
+    "temp": 74,
+    "unit": "F",
+    "wind": "NW 7 to 14 mph",
+    "pop": 0,
+    "short": "Mostly Sunny",
+    "detail": "Mostly sunny. High near 74, with temperatures falling to around 68 in the afternoon. Northwest wind 7 to 14 mph, with gusts as high as 23 mph.",
+    "icon": "https://api.weather.gov/icons/land/day/sct?size=medium"
+   },
+   {
+    "name": "Saturday Night",
+    "start": "2026-10-10T18:00:00-06:00",
+    "isDay": false,
+    "temp": 41,
+    "unit": "F",
+    "wind": "N 12 to 15 mph",
+    "pop": 40,
+    "short": "Chance Rain Showers",
+    "detail": "A chance of rain showers after 9pm. Mostly cloudy. Low around 41, with temperatures rising to around 43 overnight. North wind 12 to 15 mph. Chance of precipitation is 40%.",
+    "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium"
+   },
+   {
+    "name": "Sunday",
+    "start": "2026-10-11T06:00:00-06:00",
+    "isDay": true,
+    "temp": 51,
+    "unit": "F",
+    "wind": "NE 15 mph",
+    "pop": 80,
+    "short": "Rain Showers",
+    "detail": "Rain showers. Cloudy, with a high near 51. Northeast wind around 15 mph, with gusts as high as 23 mph. Chance of precipitation is 80%.",
+    "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,60?size=medium"
+   },
+   {
+    "name": "Sunday Night",
+    "start": "2026-10-11T18:00:00-06:00",
+    "isDay": false,
+    "temp": 34,
+    "unit": "F",
+    "wind": "NE 13 mph",
+    "pop": 98,
+    "short": "Rain Showers",
+    "detail": "Rain showers. Cloudy, with a low around 34. Northeast wind around 13 mph, with gusts as high as 21 mph. Chance of precipitation is 100%.",
+    "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,100?size=medium"
+   },
+   {
+    "name": "Columbus Day",
+    "start": "2026-10-12T06:00:00-06:00",
+    "isDay": true,
+    "temp": 46,
+    "unit": "F",
+    "wind": "NE 9 to 13 mph",
+    "pop": 91,
+    "short": "Rain Showers",
+    "detail": "Rain showers. Cloudy, with a high near 46. Northeast wind 9 to 13 mph, with gusts as high as 18 mph. Chance of precipitation is 90%.",
+    "icon": "https://api.weather.gov/icons/land/day/rain_showers,90/rain_showers,60?size=medium"
+   },
+   {
+    "name": "Monday Night",
+    "start": "2026-10-12T18:00:00-06:00",
+    "isDay": false,
+    "temp": 34,
+    "unit": "F",
+    "wind": "NW 3 to 8 mph",
+    "pop": 22,
+    "short": "Slight Chance Rain Showers then Mostly Cloudy",
+    "detail": "A slight chance of rain showers before midnight. Mostly cloudy, with a low around 34. Northwest wind 3 to 8 mph.",
+    "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium"
+   },
+   {
+    "name": "Tuesday",
+    "start": "2026-10-13T06:00:00-06:00",
+    "isDay": true,
+    "temp": 55,
+    "unit": "F",
+    "wind": "S 3 to 9 mph",
+    "pop": 13,
+    "short": "Partly Sunny",
+    "detail": "Partly sunny, with a high near 55. South wind 3 to 9 mph.",
+    "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium"
+   },
+   {
+    "name": "Tuesday Night",
+    "start": "2026-10-13T18:00:00-06:00",
+    "isDay": false,
+    "temp": 37,
+    "unit": "F",
+    "wind": "SE 7 mph",
+    "pop": 17,
+    "short": "Partly Cloudy then Slight Chance Rain Showers",
+    "detail": "A slight chance of rain showers after midnight. Partly cloudy, with a low around 37. Southeast wind around 7 mph.",
+    "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium"
+   },
+   {
+    "name": "Wednesday",
+    "start": "2026-10-14T06:00:00-06:00",
+    "isDay": true,
+    "temp": 61,
+    "unit": "F",
+    "wind": "S 6 to 12 mph",
+    "pop": 42,
+    "short": "Chance Rain Showers",
+    "detail": "A chance of rain showers. Partly sunny, with a high near 61. South wind 6 to 12 mph, with gusts as high as 21 mph.",
+    "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium"
+   }
+  ]
+ },
+ "weatherAlerts": [],
+ "current": {
+  "time": "2026-10-09T23:45",
+  "interval": 900,
+  "temperature_2m": 54.9,
+  "apparent_temperature": 49.2,
+  "relative_humidity_2m": 49,
+  "weather_code": 0,
+  "wind_speed_10m": 6,
+  "wind_gusts_10m": 8.1,
+  "wind_direction_10m": 178,
+  "is_day": 0,
+  "daily": {
+   "time": [
+    "2026-10-09",
+    "2026-10-10"
+   ],
+   "temperature_2m_max": [
+    85.1,
+    71.6
+   ],
+   "temperature_2m_min": [
+    42.1,
+    47.7
+   ],
+   "sunrise": [
+    "2026-10-09T07:03",
+    "2026-10-10T07:05"
+   ],
+   "sunset": [
+    "2026-10-09T18:17",
+    "2026-10-10T18:16"
+   ],
+   "uv_index_max": [
+    4,
+    3.95
+   ]
+  },
+  "utcOffset": -21600
+ },
+ "air": {
+  "aqi": 45,
+  "pm25": 7.4,
+  "ozone": 52,
+  "time": "2026-10-09T23:00",
+  "tomorrowMax": 43,
+  "modeled": true
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "generated": "2026-10-10T05:47:24.393Z",
+ "park": "Theodore Roosevelt National Park (all units)",
+ "source": "NPS Visitor Use Statistics (irma.nps.gov/Stats), recreation visits",
+ "url": "https://irma.nps.gov/Stats/Reports/Park/THRO",
+ "years": [
+  2021,
+  2025
+ ],
+ "monthlyAverage": [
+  2883,
+  2865,
+  9332,
+  10833,
+  73030,
+  137380,
+  160797,
+  149801,
+  120432,
+  54275,
+  11282,
+  1983
+ ],
+ "annual": {
+  "2016": 753880,
+  "2017": 708003,
+  "2018": 749389,
+  "2019": 691658,
+  "2020": 551303,
+  "2021": 796085,
+  "2022": 668679,
+  "2023": 746862,
+  "2024": 732951,
+  "2025": 729893
+ }
+}
