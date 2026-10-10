@@ -21,7 +21,7 @@ import path from "node:path";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = path.join(ROOT, "data");
 const NPS_KEY = process.env.NPS_API_KEY || "DEMO_KEY";
-const UA = "BadlandsToday/1.0 (today.labs.trlibrary.com; Theodore Roosevelt Presidential Library)";
+const UA = "BadlandsToday/1.0 (badlandstoday.labs.trlibrary.com; Theodore Roosevelt Presidential Library)";
 
 export const PLACE = { name: "Medora, ND", lat: 46.9142, lon: -103.5249, tz: "America/Denver" };
 export const GAUGE = "06336000";

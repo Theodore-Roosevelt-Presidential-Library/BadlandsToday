@@ -9,7 +9,7 @@
   const params = new URLSearchParams(location.search);
   const EMBED = params.get("embed") === "1";
   const FRAME_ID = params.get("id");
-  const SITE = "https://today.labs.trlibrary.com";
+  const SITE = "https://badlandstoday.labs.trlibrary.com";
   const TZ = "America/Denver";
   const PLACE = { lat: 46.9142, lon: -103.5249 };
   const GAUGE = "06336000";
@@ -20,6 +20,7 @@
     unit: params.get("unit") || "all",                                 // all | south | north | elkhorn
     time: params.get("time") || null,                                  // quick | short | long | any | all
     theme: params.get("theme") || "light",
+    heading: params.get("heading") !== "off",
   };
   if (opt.view === "conditions") opt.show = opt.show.filter((s) => s !== "todo");
   if (opt.view === "todo") opt.show = ["todo"];
@@ -336,7 +337,7 @@
   let root;
   function headHTML() {
     const g = S.today.generated ? new Date(Math.max(Date.parse(S.today.generated), ...Object.values(S.live))) : null;
-    return `<div class="bt-head">${EMBED ? `<div><div class="eyebrow">Medora · Theodore Roosevelt National Park</div><h2>Today in the Badlands</h2></div>` : `<h2 style="font-size:34px">Right now</h2>`}
+    return `<div class="bt-head${opt.heading ? "" : " no-title"}">${!opt.heading ? "" : EMBED ? `<div><div class="eyebrow">Medora · Theodore Roosevelt National Park</div><h2>Today in the Badlands</h2></div>` : `<h2 style="font-size:34px">Right now</h2>`}
       <div class="when"><b>${esc(fmtDate(new Date()))}</b>${g ? ` · Updated ${esc(fmtTime(g))} MT` : ""}${EMBED && opt.view !== "full" ? ` · <a class="more" href="${SITE}/" target="_blank" rel="noopener">Full conditions →</a>` : ""}</div></div>`;
   }
   function tilesHTML() {
@@ -406,6 +407,7 @@
         <tr><td><code>data-show</code></td><td>any of <code>alerts,weather,river,air,sky,crowds,todo</code></td><td>Pick the pieces, in any combination. <code>crowds</code> (how busy the park usually is this month) is off unless you list it.</td></tr>
         <tr><td><code>data-unit</code></td><td><code>all</code>, <code>south</code>, <code>north</code>, <code>elkhorn</code></td><td>Which part of the park the activity cards start on. Visitors can change it.</td></tr>
         <tr><td><code>data-time</code></td><td><code>all</code>, <code>quick</code>, <code>short</code>, <code>long</code>, <code>any</code></td><td>Starting time filter: under 30 min, an hour or two, half day or more, at your own pace.</td></tr>
+        <tr><td><code>data-heading</code></td><td><code>off</code></td><td>Hides the "Today in the Badlands" title so the widget sits under your own page heading. The date and update time stay.</td></tr>
         <tr><td><code>data-theme</code></td><td><code>light</code>, <code>dark</code></td><td>Dark sits on a forest-green band.</td></tr>
         <tr><td><code>data-min-height</code></td><td>pixels</td><td>Space held before the widget loads (default 520).</td></tr>
       </tbody></table>

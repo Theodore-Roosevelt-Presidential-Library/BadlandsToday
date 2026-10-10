@@ -29,7 +29,7 @@ for it in d["items"]:
     path = os.path.join(ROOT, rel)
     if not os.path.exists(path):
         try:
-            req = urllib.request.Request(img["url"], headers={"User-Agent": "BadlandsToday/1.0 (today.labs.trlibrary.com)"})
+            req = urllib.request.Request(img["url"], headers={"User-Agent": "BadlandsToday/1.0 (badlandstoday.labs.trlibrary.com)"})
             raw = urllib.request.urlopen(req, timeout=60).read()
             im = Image.open(io.BytesIO(raw)).convert("RGB")
             im.thumbnail((640, 640))

@@ -2,7 +2,7 @@
 
 **Today in the Badlands**: one embeddable strip with today's conditions in Medora and Theodore Roosevelt National Park, from the Theodore Roosevelt Presidential Library Labs.
 
-**Live:** https://today.labs.trlibrary.com (GitHub Pages)
+**Live:** https://badlandstoday.labs.trlibrary.com (GitHub Pages)
 
 ## What it shows
 
@@ -24,7 +24,7 @@ The same instructions, with live previews and copy buttons, are on the tool's **
 
 ```html
 <div data-badlands-today="strip"></div>
-<script src="https://today.labs.trlibrary.com/embed.js" async></script>
+<script src="https://badlandstoday.labs.trlibrary.com/embed.js" async></script>
 ```
 
 Suggested placements:
@@ -35,7 +35,7 @@ Suggested placements:
 | /visit | `<div data-badlands-today="conditions" data-show="alerts,weather,river,air,sky,crowds"></div>` |
 | Elkhorn Ranch page | `<div data-badlands-today="conditions" data-show="alerts,weather,river"></div>` |
 
-Options: `data-show` (`alerts,weather,river,air,sky,crowds,todo`), `data-unit` (`all|south|north|elkhorn`), `data-time` (`all|quick|short|long|any`), `data-theme` (`light|dark`), `data-min-height`.
+Options: `data-show` (`alerts,weather,river,air,sky,crowds,todo`), `data-unit` (`all|south|north|elkhorn`), `data-time` (`all|quick|short|long|any`), `data-theme` (`light|dark`), `data-heading="off"` (hide the title under a page heading), `data-min-height`.
 
 The widget runs in an iframe that sizes itself. Visitors' time and unit choices are remembered in their browser.
 
@@ -49,7 +49,7 @@ The widget runs in an iframe that sizes itself. Visitors' time and unit choices 
 ## Setup checklist
 
 1. **NPS API key.** Free and instant at https://www.nps.gov/subjects/developer/get-started.htm. Add it under Settings → Secrets and variables → Actions as `NPS_API_KEY`. Without it the build uses NPS's shared `DEMO_KEY`, which is rate-limited and will fail some hours.
-2. **Pages.** Settings → Pages → Source: **GitHub Actions**. Custom domain `today.labs.trlibrary.com` (the `CNAME` file is included); enforce HTTPS. The `*.labs.trlibrary.com` wildcard DNS already points at the org's Pages host.
+2. **Pages.** Settings → Pages → Source: **GitHub Actions**. Custom domain `badlandstoday.labs.trlibrary.com` (the `CNAME` file is included); enforce HTTPS. The `*.labs.trlibrary.com` wildcard DNS already points at the org's Pages host.
 3. **Workflow permissions.** Settings → Actions → General → Workflow permissions: "Read and write" so the bot can commit new activities.
 4. **Add the workflow** (remote tools can't write into `.github/`). From the repo folder in Terminal:
    `mkdir -p .github/workflows && cp docs/deploy.yml .github/workflows/`

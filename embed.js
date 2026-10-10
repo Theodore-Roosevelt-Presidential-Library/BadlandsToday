@@ -1,11 +1,11 @@
 /*!
  * Today in the Badlands embed — Theodore Roosevelt Presidential Library
- * https://today.labs.trlibrary.com
+ * https://badlandstoday.labs.trlibrary.com
  *
  * Usage (one script tag per page, any number of widgets):
  *
  *   <div data-badlands-today="strip"></div>
- *   <script src="https://today.labs.trlibrary.com/embed.js" async></script>
+ *   <script src="https://badlandstoday.labs.trlibrary.com/embed.js" async></script>
  *
  * Layouts: strip | conditions | todo | full
  * Optional attributes:
@@ -13,11 +13,12 @@
  *   data-unit="all|south|north|elkhorn"           starting park unit for activity cards
  *   data-time="all|quick|short|long|any"          starting time filter
  *   data-theme="light|dark"
+ *   data-heading="off"                            hide the "Today in the Badlands" title (for use under a page heading)
  *   data-min-height="520"                         space held before the widget reports its size
  */
 (function () {
   "use strict";
-  var ORIGIN = "https://today.labs.trlibrary.com";
+  var ORIGIN = "https://badlandstoday.labs.trlibrary.com";
   try {
     var me = document.currentScript && document.currentScript.src;
     if (me) ORIGIN = new URL(me).origin;
@@ -25,7 +26,7 @@
 
   var frames = {};
   var n = 0;
-  var PASS = ["show", "unit", "time", "theme"];
+  var PASS = ["show", "unit", "time", "theme", "heading"];
 
   function mount(el) {
     if (el.getAttribute("data-bt-mounted")) return;
